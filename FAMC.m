@@ -1,9 +1,8 @@
 % A Simplified Analytic Attitude Determination Algorithm Using Accelerometer and Magnetometer
-% Fast Accelerometer-Magnetometer Combination (FAMC) algorithm by Jin Wu,
-% Zebo Zhou et al.
+% Fast Accelerometer-Magnetometer Combination (FAMC) algorithm
 %
-% author: Jin Wu
-% e-mail: jin_wu_uestc@hotmail.com; klinsmann.zhou@gmail.com
+% author: Zhuohua Liu; Jin Wu
+% e-mail: liuzhuohua@bupt.edu.cn; jin_wu_uestc@hotmail.com;
 
 
 function q=FAMC(Ab,Mb)
